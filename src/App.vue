@@ -2,8 +2,9 @@
   <div id="app">
     <Header />
     <Main />
-    <Footer />
     <BlueRibbon />
+    <Footer />
+    <BottomBar />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import Header from "./components/Header.vue";
 import Main from "./components/Main.vue";
 import Footer from "./components/Footer.vue";
 import BlueRibbon from "./components/BlueRibbon.vue";
+import BottomBar from "./components/BottomBar.vue";
 
 export default {
   name: "App",
@@ -20,10 +22,11 @@ export default {
     Main,
     Footer,
     BlueRibbon,
+    BottomBar,
   },
 };
 </script>
 
 <style lang="scss">
-@import "./style/colors.scss";
+@import "./style/app.scss";
 </style>
