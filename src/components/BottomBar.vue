@@ -5,7 +5,7 @@
 
       <div class="follow-us">
         <span>follow us</span>
-        <a href="#"><img src="../assets/footer-facebook.png" alt="" /></a>
+        <!-- <a href="#"><img src="../assets/footer-facebook.png" alt="" /></a> -->
         <a href="#"><img src="../assets/footer-twitter.png" alt="" /></a>
         <a href="#"><img src="../assets/footer-youtube.png" alt="" /></a>
         <a href="#"><img src="../assets/footer-pinterest.png" alt="" /></a>
